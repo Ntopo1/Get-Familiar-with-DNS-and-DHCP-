@@ -53,4 +53,4 @@
 <img src="https://i.imgur.com/nvtaU11.png" height="80%" width="80%" alt="calc"/>
 </p>
 <h3>Conclusion:</h3>
-<p> I experimented with DNS queries and modified the configuration of an existing DHCP server. I reserved the IPs to allow administrators to assign specific IP addresses to devices on the network in the future. Now that this testing has been done and works properly in a the test environment, it can be rolled out to a production environment. Overall this was good to see how DNS and DHCP servers assign IPs and log queries. More to come as start to wrap up the Google IT support certification.</p> 
+<p> I experimented with DNS queries and modified the configuration of an existing DHCP server. I reserved the IPs to allow administrators to assign specific IP addresses to devices on the network in the future. Now that this testing has been done and works properly in a the test environment, it can be rolled out to a production environment. Overall this was good to see how DNS and DHCP servers assign IPs and log queries. More to come as I start to wrap up the Google IT support certification.</p> 
