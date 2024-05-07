@@ -111,7 +111,7 @@ dhcp-range=192.168.1.20,192.168.1.254
 
 <br />
 <p align="center">
-<img src="https://i.imgur.com/6sZR4mM.png" height="80%" width="80%" alt="calc"/>
+<img src="https://i.imgur.com/aVtu6Zf.png" height="80%" width="80%" alt="conf2"/>
 </p>
 
 <p align="left"> After saving the configuration file I started the service to reflect the updates. We see that the MAC address (shown in the link/ether line) is now set to the one that corresponds to one of the new servers</p> 
